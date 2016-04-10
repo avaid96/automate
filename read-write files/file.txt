@@ -1,0 +1,4 @@
+stationarity- jd doesn't change over time
+random walk- not stationarity
+beta=1- not stationarity- is a random walk- to test: you regress the differences to find that the coefficient is zero(unit root), dickey fuller test
+cointegration- if 
